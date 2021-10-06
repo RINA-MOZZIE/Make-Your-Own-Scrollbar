@@ -1,2 +1,2 @@
 # Make-Your-Own-Scrollbar
-This css code is gives a style to your websites scrollbar.By 🅡🅘🅝🅐#0957.
+Bu kod 🅡🅘🅝🅐#0957 tarafından yazılmış ve codareda paylaşılmıştır.
